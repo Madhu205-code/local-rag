@@ -1,0 +1,23 @@
+# vector store + index metadata (rebuild with `rag index`)
+data/
+
+# python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# local corpus downloads
+corpus-text/
+*.zip
+
+# os / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+.vscode/
