@@ -112,4 +112,4 @@ by this text pipeline. A CT set needs a vision model, not embeddings.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Apache-2.0. See [LICENSE](LICENSE).
